@@ -1,2 +1,2 @@
 # Waste_classification
-real time waste classification using artificial neural network
+real time waste classification using pretrained Xception net 
